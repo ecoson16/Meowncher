@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=mkappimage
+Exec=mkappimage
+Comment=Core AppImage creation tool
+Icon=appimage
+Categories=Utility;
+Terminal=true
+NoDisplay=true
+X-AppImage-Version=649
