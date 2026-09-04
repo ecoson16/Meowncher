@@ -1,0 +1,39 @@
+@Launcher_APP_BINARY_NAME@(6)
+
+
+# NAME
+
+@Launcher_APP_BINARY_NAME@ - a launcher and instance manager for Minecraft.
+
+
+# SYNOPSIS
+
+*@Launcher_APP_BINARY_NAME@* [OPTIONS...]
+
+
+# DESCRIPTION
+
+Meowncher is a custom launcher for Minecraft that allows you to easily manage
+multiple installations of Minecraft at once. It also allows you to easily
+install and remove mods by simply dragging and dropping.
+
+Meowncher is designed to be reliable, easy to use, and cozy.
+
+# OPTIONS
+
+*-d, --dir*=DIRECTORY
+	Use DIRECTORY as the Meowncher root.
+
+*-l, --launch*=INSTANCE_ID
+	Launch the instance specified by INSTANCE_ID.
+
+*--show*=INSTANCE_ID
+	Show the configuration window of the instance specified by INSTANCE_ID.
+
+# ABOUT
+
+Meowncher is an improved fork of the Prism Launcher. It maintains compatibility
+with existing instances and features while providing a modernized interface
+and improved user experience.
+
+For more information, visit the official repository.

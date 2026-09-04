@@ -465,7 +465,7 @@
     <iconset theme="launcher"/>
    </property>
    <property name="text">
-    <string>Prism Launcher (zip)</string>
+    <string>Meowncher (zip)</string>
    </property>
   </action>
   <action name="actionExportInstanceMrPack">
